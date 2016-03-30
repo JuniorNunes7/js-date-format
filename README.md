@@ -17,13 +17,13 @@ Use Examples:
     var date = new Date("1992-11-19 22:29");
     console.log(date.format('d/m/Y à\\s H:i')); //Escape example
     
-    > Result: 19/11/1992 às 22:29
+> Result: 19/11/1992 às 22:29
 
 
     var date = new Date();
     console.log(date.format('H:i:s'));
     
-    > Result: 10:02:55
+> Result: 10:02:55
   
 
     var date = new Date();
