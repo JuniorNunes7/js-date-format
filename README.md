@@ -14,7 +14,7 @@ Char functions:
 Use Examples:
 --------------------------------------------
 
-    var date = new Date("1992-11-19 22:29");
+    var date = new Date(1992,11,19,22,29"); // 1992-11-19 22:29
     console.log(date.format('d/m/Y à\\s H:i')); //Escape example
     
 > 19/11/1992 às 22:29
